@@ -1,0 +1,13 @@
+name: ZombieDisaster
+version: '1.0_gec_custom_1.1'
+main: nitrogen.zombiedisaster.ZombieDisaster
+api-version: 1.17
+author: SARI_L
+
+commands:
+  recipe:
+    description: '바다의 심장 조합법'
+    usage: '사용법: /recipe'
+  zombie:
+    description: '좀비 아포칼립스를 활성화하거나 비활성화'
+    usage: '사용법: /zombie <enable|disable>'
